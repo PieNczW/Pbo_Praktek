@@ -7,6 +7,7 @@ import java.awt.Button;
 import java.awt.TextField;
 import javax.swing.JButton;
 import javax.swing.JTable;
+import javax.swing.JComboBox;
 import javax.swing.JTextField;
 import farrell.controller.PeminjamanController;
 
