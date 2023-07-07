@@ -15,7 +15,7 @@ public abstract class PeminjamanDaoImpl implements PeminjamanDao{
     
     public PeminjamanDaoImpl() {
         data.add(new Peminjaman("A001","Dear J","1 Juli 2023","8 Juli 2023 "));
-        data.add(new Peminjaman("A002","Hujan","5 Agustus 2022","12 Agustus 2022"));
+        data.add(new Peminjaman("A002","Cerah","12 September 2022","12 Januari 2022"));
     }
     
     public void insert(Peminjaman peminjaman){
