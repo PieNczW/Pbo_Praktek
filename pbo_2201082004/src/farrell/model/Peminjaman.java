@@ -8,6 +8,8 @@ package farrell.model;
  *
  * @author HP
  */
+import java.text.*;
+import java.util.*;
 public class Peminjaman {
     private String kodeAnggota;
     private String kodeBuku;
